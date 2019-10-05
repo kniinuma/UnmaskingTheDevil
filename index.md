@@ -61,7 +61,7 @@ Optimal learning rate is largely different between Adam and SGD optimizers. Howe
 ```markdown
 @inproceedings{unmaskingthedevil2019,
   title={Unmasking the Devil in the Details: What Works for Deep Facial Action Coding?},
-  author={Niinuma, Koichiro and Onal Ertugrul, Itir and Jeni, L{\'a}szl{\'o} A and Cohn, Jeffrey F},
+  author={Niinuma, Koichiro and Jeni, L{\'a}szl{\'o} A and Onal Ertugrul, Itir and Cohn, Jeffrey F},
   booktitle={British Machine Vision Conference},
   year={2019}
 }
